@@ -298,12 +298,6 @@ section {
     color: rgb(5, 68, 104);
 }
 
-/*.insurance .box-container .box .insOptionsList ul li {
-    list-style-position:inside;
-    font-size: 1.5rem;
-    color: rgb(5, 68, 104);
-}*/
-
 .insurance .box-container .box h3 {
   text-align: center;
   color: rgb(5, 68, 104);
@@ -316,10 +310,6 @@ section {
   transition: 0.3s;
   margin: auto; 
   width:max-content;
-  /*line-spacing: 0em;*/
-  /*text-align: center;
-  display: inline-block;
-  justify-content: center;*/
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -343,48 +333,6 @@ section {
   line-spacing: 0em;
   line-height: 12px;
 }
-/*
-.wrapper .section .section6 .insOptions li{
-   list-style-type: disc;
-   list-style-position: inside;
-   width: 50%;
-   margin: auto;
-   font-style: italic;
-}
-
-.insurance .box-container .box .image .overlay {
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-  text-align: center;
-  z-index: 10;
-  background-color: rgba(0, 0, 0, 0.7);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  transform: translateY(-40rem);
-}
-
-.insurance .box-container .box .image .overlay h3 {
-  font-size: 2rem;
-  color: var(--white);
-  margin-bottom: 1rem;
-}
-
-.insurance .box-container .box .image .overlay span {
-  font-size: 1.5rem;
-  color: var(--gray);
-}
-
-.insurance .box-container .box:hover .image .overlay {
-  transform: translateY(0);
-}
-*/
-
 /* insurance */
 
 /* about */
@@ -430,32 +378,9 @@ section {
   line-height: 2;
   margin-bottom: 1.5rem;
   letter-spacing: 0.1rem;
-  /* color: var(--gray); */
   color: rgb(5, 68, 104);
   text-transform: none;
 }
-/*
-.join .box-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
-}
-
-.join .box-container .box .form-group ion-icon {
-  font-size: 2.5rem;
-  color: var(--primary-color);
-}
-
-.join .box-container .box .form-group span {
-  font-size: 2rem;
-  margin-left: 1rem;
-}
-
-.join .box-container .box .form-group {
-  display: flex;
-  align-items: center;
-  margin-bottom: 1rem;
-}
-*/
 .join .box-container .box {
   display: flex;
   flex-direction: column;
@@ -475,31 +400,7 @@ section {
   /* letter-spacing: 0.1rem; */
   line-spacing: 0em;
 }
-/*
-.join .box-container .box input {
-  border: 0.1rem solid #000;
-  padding: 1rem;
-  margin-bottom: 1rem;
-}
 
-.join .box-container .box textarea {
-  border: 0.1rem solid #000;
-  padding: 1rem;
-}
-
-.join .box-container .box button {
-  margin-top: 1rem;
-  padding: 1rem;
-  font-size: 1.5rem;
-  cursor: pointer;
-  font-weight: bold;
-}
-
-.join .box-container .box button:hover {
-  background-color: var(--primary-color);
-  color: var(--white);
-}
-*/
 /* join */
 
 /* footer */
