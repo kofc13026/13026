@@ -387,6 +387,36 @@ section {
 
 /* insurance */
 
+/* about */
+.memoriam .box-container .box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.memoriam .box-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  gap: 2rem;
+}
+
+.memoriam .box-container .box p {
+  font-size: 1.5rem;
+  line-height: 2;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.1rem;
+  /* color: var(--gray); */
+  color: rgb(5, 68, 104);
+  text-transform: none;
+}
+.memoriam .box-container .box .motto p {
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 2rem;
+}
+/* memoriam */
+
 /* join */
 .join .box-container {
   display: grid;
