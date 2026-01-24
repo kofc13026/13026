@@ -371,7 +371,7 @@ section {
   /*width: 50%;*/
   /*display: flex;*/
   /*justify-content: center; /* Centers horizontally */
-  align-items: center; /* Centers vertically */
+  /*align-items: center; /* Centers vertically */
   /*height: 100vh; /* Sets the container height (e.g., to the full viewport height) */
 }
 .memoriam .td p {
@@ -516,6 +516,7 @@ section {
   }
 }
 /* media queries */
+
 
 
 
