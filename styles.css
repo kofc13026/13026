@@ -364,6 +364,19 @@ section {
   font-style: italic;
   font-size: 2rem;
 }
+.memoriam .center-table {
+  margin-left: auto;
+  margin-right: auto;
+  /* Optional: set a width other than 100% so the margin can take effect */
+  /*width: 50%;*/
+  /*display: flex;*/
+  /*justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  /*height: 100vh; /* Sets the container height (e.g., to the full viewport height) */
+}
+.memoriam .td p {
+  text-align: left;
+}
 /* memoriam */
 
 /* join */
@@ -503,3 +516,4 @@ section {
   }
 }
 /* media queries */
+
