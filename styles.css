@@ -162,10 +162,17 @@ section {
 
 /* calendar */
 .calendar .box-container .box {
-  width: 100%;
-  height: 100%;
+  /* width: 100%;
+  height: 100%;*/
   justify-content: center;
   object-fit: contain;
+  
+  border:solid 1px #777;
+  width: 800;
+  height: 600;
+  frameborder: 0;
+  scrolling: no;
+  
   /* object-fit: cover; */
 }
 /* calendar */
