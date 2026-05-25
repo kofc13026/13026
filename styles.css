@@ -161,7 +161,7 @@ section {
 /* about */
 
 /* calendar */
-.calendar .box-container .box {
+.calendar .box-container .box .cal{
   /* width: 100%;
   height: 100%;
   justify-content: center;
