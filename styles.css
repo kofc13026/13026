@@ -173,7 +173,7 @@ section {
   frameborder: 0;
   scrolling: no;
   
-  object-fit: contain;
+  object-fit: cover;
 }
 /* calendar */
 
